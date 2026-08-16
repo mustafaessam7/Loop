@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "798258857122",
+    "project_id": "loop-68080",
+    "storage_bucket": "loop-68080.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798258857122:web:d3086a2b3d23a44b2403fb",
+        "android_client_info": {
+          "package_name": "com.aistudio.loop.posvyr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQG0MCPFIIZswFSfM3TohXAQVNxSbYBTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

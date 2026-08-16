@@ -1,0 +1,6 @@
+{
+  "name": "Loop",
+  "description": "نظام Loop المتكامل لإدارة الورش والمحلات التجارية، الفواتير بالكسور واللترات، تتبع الصيانة الدورية، وإدارة الجلسات والصلاحيات المتجاوبة لجميع الأجهزة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
